@@ -4,7 +4,7 @@
     <!--圆弧进度条-->
     <declare-styleable name="TasksCompletedView">
         <!--内圆半径-->
-        <attr name="radius" format="dimension" />
+        <attr name="tasks_radius" format="dimension" />
         <!--内圆颜色-->
         <attr name="circleColor" format="color" />
         <!--进度条宽度-->
